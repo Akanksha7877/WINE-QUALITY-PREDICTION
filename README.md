@@ -1,4 +1,4 @@
-# WINE-QUALITY-PREDICTION
+
 # Wine Quality Prediction using Linear Regression
 
 This repository contains an implementation of wine quality prediction using Linear Regression. The goal is to build a basic linear regression model to predict wine quality based on various attributes.
